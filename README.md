@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< STILL IN DEVELOPMENT >>>>>>>>
 # Enhanced Japan Weather Integration
 
 A comprehensive weather integration for Home Assistant providing detailed weather monitoring specifically tailored for Japan, with multiple data sources, advanced metrics, and intelligent alerting.
