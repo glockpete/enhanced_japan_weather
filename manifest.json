@@ -1,0 +1,13 @@
+{
+  "domain": "japan_weather",
+  "name": "Enhanced Japan Weather",
+  "version": "2.1.0",
+  "documentation": "https://github.com/yourusername/enhanced_japan_weather",
+  "dependencies": [],
+  "codeowners": ["@yourgithubusername"],
+  "requirements": ["aiohttp>=3.8.0", "async_timeout>=4.0.0", "Pillow>=9.0.0"],
+  "config_flow": true,
+  "icon": "icon.png",
+  "logo": "logo.png",
+  "iot_class": "cloud_polling"
+}

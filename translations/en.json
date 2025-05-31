@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Enhanced Japan Weather Setup",
+        "description": "Configure your location in Japan for weather monitoring with satellite integration.",
+        "data": {
+          "latitude": "Latitude",
+          "longitude": "Longitude"
+        }
+      }
+    },
+    "error": {
+      "latitude_out_of_range": "Latitude must be between 24.0 and 46.0 degrees (Japan region)",
+      "longitude_out_of_range": "Longitude must be between 123.0 and 146.0 degrees (Japan region)"
+    }
+  },
+  "component": {
+    "japan_weather": {
+      "title": "Enhanced Japan Weather",
+      "description": "Comprehensive weather monitoring for Japan with satellite imagery integration."
+    }
+  }
+}
